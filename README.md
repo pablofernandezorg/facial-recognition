@@ -13,4 +13,3 @@ User Guide
 **[Build Instructions](http://openbiometrics.org/docs/install/)**
  ![alt tag](http://openbiometrics.org/diagram.png)
 
-**www.openbiometrics.org**
