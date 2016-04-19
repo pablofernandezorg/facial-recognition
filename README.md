@@ -10,13 +10,6 @@ Check out a  tutorial  here: http://openbiometrics.org/docs/tutorials/
 User Guide
 -----------
 
-    $ git clone https://github.com/biometrics/openbr.git
-    $ cd openbr
-    $ git checkout <tag>
-    $ git submodule init
-    $ git submodule update
-
-
 **[Build Instructions](http://openbiometrics.org/docs/install/)**
  ![alt tag](http://openbiometrics.org/diagram.png)
 
