@@ -13,6 +13,7 @@ else:
     imgSize = 128
 
 out = open('images.html','w')
+
 imgs = glob.glob(os.path.join(inputDir, '*.jpg'))
 imgs.sort()
 for i in imgs:
