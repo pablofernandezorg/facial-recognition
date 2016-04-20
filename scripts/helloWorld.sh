@@ -10,6 +10,7 @@ if ! hash br 2>/dev/null; then
   exit
 fi
 
+
 # Get the data
 ./downloadDatasets.sh
 
