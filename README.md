@@ -1,4 +1,4 @@
-openbiometrics
+facial-recognition 
 ========
 
 OpenBiometrics is a communal biometrics framework supporting the development of open algorithms and reproducible evaluations.
