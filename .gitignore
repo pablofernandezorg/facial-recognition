@@ -17,6 +17,7 @@ share/openbr/models
 *.log
 *.user
 
+
 ### Latex ###
 *.aux
 *.nav
